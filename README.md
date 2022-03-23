@@ -1,1 +1,1 @@
-Projeto desenvolvido para a prática de conhecimentos com HTML e CSS. 
+Projeto desenvolvido para a prática de conhecimentos com HTML e CSS.
